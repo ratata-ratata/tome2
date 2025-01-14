@@ -1,0 +1,5 @@
+#include "tome2.dtsi"
+
+&default_transform {
+    col-offset = <6>;
+};
