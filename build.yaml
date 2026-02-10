@@ -19,8 +19,7 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: settings_reset
-    
+    shield: settings_reset    
   - board: seeeduino_xiao_ble
     shield: tome2_left
   - board: seeeduino_xiao_ble
